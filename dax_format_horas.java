@@ -20,3 +20,5 @@ var v2 =
 
 return v2
 -----------------------------------------------------------------------------------------
+HorasDecimais dif emissao = 
+HOUR([DIF EMISSÃO]) + MINUTE([DIF EMISSÃO]) / 60 + SECOND([DIF EMISSÃO]) / 3600
